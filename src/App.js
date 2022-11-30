@@ -1,6 +1,3 @@
-// https://www.youtube.com/watch?v=KH-pw1cv34E
-// https://www.youtube.com/watch?v=OapRLFqveS4&t=30s
-
 import './App.css';
 import {BrowserRouter as Router, Routes, Route} from "react-router-dom";
 import Header from './components/Header/Header';
